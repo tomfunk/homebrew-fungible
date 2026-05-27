@@ -1,8 +1,8 @@
 class Fungible < Formula
   desc "Terminal personal finance manager with Plaid sync and AI categorization"
   homepage "https://github.com/tomfunk/fungible"
-  url "https://github.com/tomfunk/fungible/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "7b1be2f52f4a46aab93c882e503714083968d2b861a05e0a72765529e269babe"
+  url "https://github.com/tomfunk/fungible/archive/refs/tags/v1.1.2.tar.gz"
+  sha256 "fe1a2c30c55ad0c7b1917250162290b1a792115f95a814a015b2eed516f5579b"
   license "ISC"
 
   depends_on "node"
